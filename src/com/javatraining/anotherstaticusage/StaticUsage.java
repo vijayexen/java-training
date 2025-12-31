@@ -1,5 +1,8 @@
 package com.javatraining.anotherstaticusage;
 
+/**
+ * Changes by Bala
+ */
 public class StaticUsage {
 
     //    static variable
